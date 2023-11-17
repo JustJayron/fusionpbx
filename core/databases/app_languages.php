@@ -1,5 +1,9 @@
 <?php
 
+//$text['']['tr-tr'] = "";
+//
+//
+
 $text['title-databases']['en-us'] = "Databases";
 $text['title-databases']['en-gb'] = "Databases";
 $text['title-databases']['ar-eg'] = "قواعد بيانات";
@@ -21,6 +25,7 @@ $text['title-databases']['ro-ro'] = "Baze de date";
 $text['title-databases']['ru-ru'] = "Базы данных";
 $text['title-databases']['sv-se'] = "Databaser";
 $text['title-databases']['uk-ua'] = "Бази даних";
+$text['title-databases']['tr-tr'] = "Veritaban -ları";
 $text['title-databases']['zh-cn'] = "数据库";
 $text['title-databases']['ja-jp'] = "データベース";
 $text['title-databases']['ko-kr'] = "데이터베이스";
@@ -46,6 +51,7 @@ $text['title-database-edit']['ro-ro'] = "Editare baze de date";
 $text['title-database-edit']['ru-ru'] = "База данных Править";
 $text['title-database-edit']['sv-se'] = "Ändra Databas";
 $text['title-database-edit']['uk-ua'] = "Редагування бази даних";
+$text['title-database-edit']['tr-tr'] = "Veritabanı Düzenle";
 $text['title-database-edit']['zh-cn'] = "数据库编辑";
 $text['title-database-edit']['ja-jp'] = "データベース編集";
 $text['title-database-edit']['ko-kr'] = "데이터베이스 편집";
